@@ -1,0 +1,44 @@
+[18-Feb-2022 09:18:15 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/customer/www/cn.ku-user.com/public_html/mod_report/loadContant.php on line 35
+[18-Feb-2022 09:18:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/customer/www/cn.ku-user.com/public_html/mod_report/loadContant.php on line 35
+[01-Mar-2022 11:22:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cn.ku-user.com/public_html/mod_report/loadContant.php on line 493
+[19-Sep-2022 16:46:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/cn.ku-user.com/public_html/mod_report_daily/loadContant.php on line 272
+[07-Oct-2022 14:42:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cn.ku-user.com/public_html/mod_report_daily/loadContant.php on line 470
+[07-Oct-2022 14:54:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cn.ku-user.com/public_html/mod_report_daily/loadDaily.php on line 481
+[28-Apr-2024 22:47:59 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function Connect() on bool in /home/customer/www/ku-user.com/public_html/lib/session.php:118
+Stack trace:
+#0 /home/customer/www/ku-user.com/public_html/lib/connect.php(5): wewebConnect(NULL, NULL, NULL, NULL)
+#1 /home/customer/www/ku-user.com/public_html/mod_report_daily/loadListDaily.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/ku-user.com/public_html/lib/session.php on line 118
+[11-Apr-2025 21:49:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/daily.php on line 543
+[11-Apr-2025 21:49:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/daily.php on line 543
+[11-Apr-2025 21:49:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/daily.php on line 543
+[11-Apr-2025 21:50:01 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/daily.php on line 543
+[14-Apr-2025 21:36:20 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 476
+[14-Apr-2025 22:08:58 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 471
+[15-Apr-2025 00:48:17 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 647
+[16-Apr-2025 21:59:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 21:59:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:06 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:16 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:17 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:17 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:18 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:19 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:19 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:20 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:33 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:34 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:00:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:01:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 567
+[16-Apr-2025 22:03:50 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 3
+[16-Apr-2025 22:04:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 3
+[16-Apr-2025 22:06:58 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 572
+[16-Apr-2025 22:07:50 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 572
+[16-Apr-2025 22:10:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/uat.ku-user.info/public_html/mod_report_ab/loadContant.php on line 568
